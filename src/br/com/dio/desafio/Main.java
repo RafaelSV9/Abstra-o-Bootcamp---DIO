@@ -52,3 +52,4 @@ public class Main {
         System.out.println("XP: " + devAna.calcularTotalXp());
     }
 }
+// Comentário de teste.
